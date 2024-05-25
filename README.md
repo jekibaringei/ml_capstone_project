@@ -18,15 +18,3 @@
        <pre><code id="install-code">pip install -r requirements.txt</code></pre>
        <button onclick="copyToClipboard('#install-code')">Copy</button>
 </div>
-<script>
-function copyToClipboard(element) {
-    var copyText = document.querySelector(element).textContent;
-    var textarea = document.createElement('textarea');
-    textarea.textContent = copyText;
-    document.body.appendChild(textarea);
-    textarea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textarea);
-    alert('Copied to clipboard');
-}
-</script>
