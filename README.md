@@ -16,5 +16,4 @@
 
 <div>
        <pre><code id="install-code">pip install -r requirements.txt</code></pre>
-       <button onclick="copyToClipboard('#install-code')">Copy</button>
 </div>
