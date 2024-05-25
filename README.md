@@ -8,9 +8,9 @@
 
 ### You can use anything you want to use, like Python env or Anaconda
 
-### 1. Python Env
+- Python Env
 
-### 2. Anaconda
+- Anaconda
 
 # Install The Packages
 
