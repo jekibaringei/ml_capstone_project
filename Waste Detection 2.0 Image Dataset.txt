@@ -1,1 +1,0 @@
-https://universe.roboflow.com/sakib-9bfzb/waste-detection-2.0-hwohv/dataset/2
